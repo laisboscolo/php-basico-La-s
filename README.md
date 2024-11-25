@@ -1,4 +1,5 @@
-Exercícios de PHP
+## Exercícios de PHP
+
 Atividade 1 : "Hello World!";
 
 Atividade 2 : Operação de variáveis utilizando GET;
